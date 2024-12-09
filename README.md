@@ -18,7 +18,6 @@
 ### 1️⃣ **[Dataset Visualization App](https://github.com/andreach36/dataset-visualization-app)**  
 Aplicación web para la visualización y manejo de datasets en formato CSV.  
 **Tecnologías**: Vue.js, Golang, PostgreSQL.  
-📸 [Ver capturas](https://github.com/andreach36/dataset-visualization-app/screenshots)
 
 ---
 
