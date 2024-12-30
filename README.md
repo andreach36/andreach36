@@ -17,7 +17,11 @@
 
 ### 1️⃣ **[Dataset Visualization App](https://github.com/andreach36/dataset-visualization-app)**  
 Aplicación web para la visualización y manejo de datasets en formato CSV.  
-**Tecnologías**: Vue.js, Golang, PostgreSQL.  
+**Tecnologías**: Vue.js, Golang, PostgreSQL.
+
+### 2️⃣ **[Email Visualization App](https://github.com/andreach36/email-visualization-app)**
+Aplicación web para la visualización de correos electrónicos.
+**Tecnologías**: Vue.js, Golang, ZincSearch.
 
 ---
 
